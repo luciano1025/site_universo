@@ -1,0 +1,251 @@
+* {
+    padding: 0;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body header {
+    background-color: black;
+    padding: 16px 0;
+}
+
+section {
+    background-color: black;
+}
+
+.articles0 article img {
+    height: 884px;
+}
+
+.articles0 article p {
+    margin: auto auto 50px auto;
+}
+
+.articles0 article {
+    color: seashell;
+}
+
+.articles1 article img {
+    height: 750px;
+    margin-left: 400px;
+    
+}
+
+.articles1 article p {
+    margin: auto auto 50px auto;
+}
+
+.articles1 article {
+    color: seashell;
+}
+
+.articles2 article img {
+    height: 800px;
+}
+
+.articles2 article p {
+    margin: auto auto 50px auto;
+}
+
+.articles2 article {
+    color: seashell;
+}
+
+.articles3 article img {
+    height: 922px;
+}
+
+.articles3 article p {
+    margin: auto auto 50px auto;
+}
+
+.articles3 article {
+    color: seashell;
+}
+
+.articles4 article img {
+    height: 720px;
+    margin-left: 420px;
+}
+
+.articles4 article p {
+    margin: auto auto 50px auto;
+}
+
+.articles4 article {
+    color: seashell;
+}
+
+.articles5 article img {
+    height: 720px;
+    margin-left: 300px;
+}
+
+.articles5 article p {
+    margin: auto auto 50px auto;
+}
+
+.articles5 article {
+    color: seashell;
+}
+
+.articles6 article img {
+    height: 1182px;
+}
+
+.articles6 article p {
+    margin: auto auto 50px auto;
+}
+
+.articles6 article {
+    color: seashell;
+}
+
+.articles7 article img {
+    height: 720px;
+    margin-left: 440px;
+}
+
+.articles7 article p {
+    margin: auto auto 50px auto;
+}
+
+.articles7 article {
+    color: seashell;
+}
+
+.articles8 article img {
+    height: 720px;
+    margin-left: 320px;
+    margin-top: 50px;
+}
+
+.articles8 article p {
+    margin: auto auto 50px auto;
+}
+
+.articles8 article {
+    color: seashell;
+}
+
+.articles9 article img {
+    height: 910px;
+}
+
+.articles9 article p {
+    margin: auto auto 50px auto;
+}
+
+.articles9 article {
+    color: seashell;
+}
+
+section header{
+    margin: 0 auto 1px auto;
+}
+
+header h1{
+    font-size: 35px;
+    color: gold;
+}
+
+article h2 {
+    margin: 30px auto;
+    color: orangered;
+}
+
+header ul li {
+    display: inline;
+}
+
+ul a {
+    text-decoration: none;
+    color: lawngreen;
+}
+
+ul a:hover {
+    text-decoration: underline;
+}
+
+article h3 {
+    margin: 30px auto ;
+    color: orangered;
+}
+
+.planetas {
+    margin: 0 auto 50px auto;
+    width: 900px
+}
+
+.mercurio {
+    width: 650px;
+    margin: 0 auto 50px auto;
+}
+
+.venus {
+    width: 1080px;
+    margin: 0 auto 50px auto;
+}
+
+.terra {
+    width: 550px;
+    margin: 0 auto 50px auto;
+}
+
+.marte {
+    width: 280px;
+    margin: 0 auto 50px auto;
+}
+
+.jupiter {
+    width: 290px;
+    margin: 0 auto 50px auto;
+}
+
+.saturno {
+    width: 210px;
+    margin: 0px auto 50px auto;
+}
+
+.urano {
+    width: 280px;
+    margin: 0 auto 50px auto;
+}
+
+.netuno {
+    width: 290px;
+    margin: 0 auto 50px auto;
+}
+
+.plutão {
+    width: 180px;
+    margin: 0 auto 50px auto;
+}
+
+article h3 {
+    font-size: 24px;
+    margin: 30px 10px ;
+    color: orangered;
+}
+
+article p, 
+article li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header li a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+    margin: 7px 0 7px 0;
+}
+
+ul,
+li {
+    margin-left: 5px;
+}
+
+.articles0 article h2 {
+    margin-left: 5px;
+}
