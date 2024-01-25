@@ -249,3 +249,15 @@ li {
 .articles0 article h2 {
     margin-left: 5px;
 }
+
+form {
+    background-color: black;
+}
+
+form h3 {
+    color: rgb(161, 161, 177);
+}
+
+label h4 {
+    color:cyan;
+}
